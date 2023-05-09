@@ -5,7 +5,7 @@
 #include <string.h>
 
 #include <time.h>
-
+//
 void displayArray(char **array, int numberOfWords) {
   int i;
   printf("Printing:\n");
